@@ -10,4 +10,57 @@ body {
   color: white;
   font-family: 'Montserrat', sans-serif;
 }
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hero-wrapper {
+  background: url("../images/bg.jpg");
+  background-size: cover;
+}
+
+.wrapper {
+  padding: 1.5em;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+header .logo {
+  font-weight: bold;
+}
+
+header ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+header ul li a {
+  padding: 0 .6em;
+}
+
+.hero-content {
+  margin: 4em 0 2em;
+}
+
+.hero-content .subtitle {
+  margin-bottom: 0;
+}
 /*# sourceMappingURL=main.css.map */
