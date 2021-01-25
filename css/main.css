@@ -150,7 +150,6 @@ h2::before {
   background: #b728dc;
   top: -.3em;
 }
-<<<<<<< HEAD
 
 .companies {
   text-align: center;
@@ -267,10 +266,8 @@ h2::before {
     border-right: 1px solid #7c5994;
     padding-right: 5%;
   }
-  li:last-child {
+  :last-child {
     border: 0;
   }
 }
-=======
->>>>>>> 5cf33fa7200d4210037f187210b3b4776627551d
 /*# sourceMappingURL=main.css.map */
