@@ -1,2 +1,2 @@
 # HTML & CSS Crash Course
-### Training Purpose
+### Training Purpose for GIT, HTML, CSS/SCSS
